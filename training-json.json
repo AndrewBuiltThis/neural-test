@@ -1,0 +1,698 @@
+{"_id":{"$oid":"5c0591243f591d6070d4f85e"},"input":"virtual charlotte isn't working","conversationType":"problem","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c05916d3f591d6070d4f85f"},"input":"charlotte explorer is not working","conversationType":"problem","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0591923f591d6070d4f861"},"input":"cltex is broken","conversationType":"problem","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0591ac3f591d6070d4f862"},"input":"charlotte explorer is not loading","conversationType":"problem","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0591d73f591d6070d4f863"},"input":"i cant see my map","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0591f73f591d6070d4f864"},"input":"airport parking app is down","conversationType":"problem","conversationSubject":"Airport Parking App"}
+{"_id":{"$oid":"5c05921e3f591d6070d4f865"},"input":"i want to add a layer to charlotte explorer","conversationType":"request","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0592443f591d6070d4f866"},"input":"create an arcgis online account for a user","conversationType":"request","conversationSubject":"ArcGIS Online"}
+{"_id":{"$oid":"5c0592613f591d6070d4f867"},"input":"add parcels_ld to sdw","conversationType":"request","conversationSubject":"SDW"}
+{"_id":{"$oid":"5c05927f3f591d6070d4f868"},"input":"install arcmap onto john's desktop","conversationType":"request","conversationSubject":"ArcMap"}
+{"_id":{"$oid":"5c0592a13f591d6070d4f869"},"input":"i need charlotte explorer training","conversationType":"training","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0592bd3f591d6070d4f86a"},"input":"charlotte explorer training courses","conversationType":"training","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0592d43f591d6070d4f86b"},"input":"how do I connect to SDW?","conversationType":"question","conversationSubject":"SDW"}
+{"_id":{"$oid":"5c0592f53f591d6070d4f86c"},"input":"how do I update the data hub?","conversationType":"question","conversationSubject":"The Data Hub"}
+{"_id":{"$oid":"5c0593113f591d6070d4f86d"},"input":"What is ArcMap?","conversationType":"question","conversationSubject":"Esri"}
+{"_id":{"$oid":"5c0593353f591d6070d4f86e"},"input":"What is a shapefile?","conversationType":"question","conversationSubject":"General"}
+{"_id":{"$oid":"5c0593493f591d6070d4f86f"},"input":"When is the next ArcGIS release?","conversationType":"question","conversationSubject":"Esri"}
+{"_id":{"$oid":"5c0593653f591d6070d4f870"},"input":"What is Python?","conversationType":"question","conversationSubject":"General"}
+{"_id":{"$oid":"5c05938b3f591d6070d4f871"},"input":"How do I download qgis?","conversationType":"question","conversationSubject":"General"}
+{"_id":{"$oid":"5c0593a23f591d6070d4f872"},"input":"can I copy data to agol?","conversationType":"question","conversationSubject":"ArcGIS Online"}
+{"_id":{"$oid":"5c065a1b3f591d6070d4f873"},"input":"problem","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c065a2d3f591d6070d4f874"},"input":"request","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c065a4a3f591d6070d4f876"},"input":"training","conversationType":"training","conversationSubject":"General"}
+{"_id":{"$oid":"5c065a583f591d6070d4f877"},"input":"question","conversationType":"question","conversationSubject":"General"}
+{"_id":{"$oid":"5c06ddfa3f591d6070d4f878"},"input":"arcgis online is down","conversationType":"problem","conversationSubject":"ArcGIS Online"}
+{"_id":{"$oid":"5c06de0b3f591d6070d4f879"},"input":"agol is down","conversationType":"problem","conversationSubject":"ArcGIS Online"}
+{"_id":{"$oid":"5c06de183f591d6070d4f87a"},"input":"develop amazon alexa app","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c06de453f591d6070d4f87b"},"input":"create cltw asset management app","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c06de5a3f591d6070d4f87c"},"input":"create simple government app for residents","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c06de733f591d6070d4f87d"},"input":"upgrade to arcgis 10.6.1","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c06de883f591d6070d4f87e"},"input":"rebuild the city's locators","conversationType":"request","conversationSubject":"Locator Service"}
+{"_id":{"$oid":"5c06de983f591d6070d4f87f"},"input":"decomission city's legacy machines","conversationType":"request","conversationSubject":"Infrastructure / Technology"}
+{"_id":{"$oid":"5c06deac3f591d6070d4f880"},"input":"develop lightweight GIS Web App","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c06dec33f591d6070d4f881"},"input":"issues with CLTEx on mobile devices","conversationType":"problem","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c06def03f591d6070d4f882"},"input":"create / develop the replacement adopt-a-street application","conversationType":"request","conversationSubject":"Adopt A City Street App"}
+{"_id":{"$oid":"5c06df0b3f591d6070d4f883"},"input":"build custom GIS monitoring application","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c06df213f591d6070d4f884"},"input":"build custom integration for UMS CLTEx","conversationType":"request","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c06df3e3f591d6070d4f885"},"input":"Build Charlotte Explorer integration for Baner","conversationType":"request","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c06df513f591d6070d4f886"},"input":"rebuild planning's GDP application","conversationType":"request","conversationSubject":"GDP App"}
+{"_id":{"$oid":"5c06df693f591d6070d4f887"},"input":"problems with aerials on CLTEx","conversationType":"problem","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c06df783f591d6070d4f888"},"input":"stormwater data is missing","conversationType":"problem","conversationSubject":"Data"}
+{"_id":{"$oid":"5c06df8a3f591d6070d4f889"},"input":"i cant connect to SDW","conversationType":"problem","conversationSubject":"SDW"}
+{"_id":{"$oid":"5c06df9b3f591d6070d4f88a"},"input":"create new arcgis online account for","conversationType":"request","conversationSubject":"ArcGIS Online"}
+{"_id":{"$oid":"5c06dfab3f591d6070d4f88b"},"input":"esri training","conversationType":"training","conversationSubject":"Esri"}
+{"_id":{"$oid":"5c06dfbc3f591d6070d4f88c"},"input":"opex courses available to the city","conversationType":"training","conversationSubject":"Op Ex Academy"}
+{"_id":{"$oid":"5c06dfcd3f591d6070d4f88d"},"input":"op ex courses on python","conversationType":"training","conversationSubject":"Op Ex Academy"}
+{"_id":{"$oid":"5c06dfdd3f591d6070d4f88e"},"input":"who is the GIS admin?","conversationType":"question","conversationSubject":"Staff / Point of Contact"}
+{"_id":{"$oid":"5c06dfea3f591d6070d4f88f"},"input":"data is missing","conversationType":"problem","conversationSubject":"Data"}
+{"_id":{"$oid":"5c0912523f591d6070d4f890"},"input":"tutorial","conversationType":"training","conversationSubject":"General"}
+{"_id":{"$oid":"5c0912663f591d6070d4f891"},"input":"tutorials","conversationType":"training","conversationSubject":"General"}
+{"_id":{"$oid":"5c09127a3f591d6070d4f892"},"input":"documentation","conversationType":"training","conversationSubject":"General"}
+{"_id":{"$oid":"5c0912953f591d6070d4f893"},"input":"courses","conversationType":"training","conversationSubject":"General"}
+{"_id":{"$oid":"5c0912af3f591d6070d4f894"},"input":"classes","conversationType":"training","conversationSubject":"General"}
+{"_id":{"$oid":"5c0912cc3f591d6070d4f895"},"input":"I have a question","conversationType":"helper","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913053f591d6070d4f896"},"input":"Hello","conversationType":"helper","conversationSubject":"General"}
+{"_id":{"$oid":"5c09131a3f591d6070d4f897"},"input":"Hi","conversationType":"helper","conversationSubject":"General"}
+{"_id":{"$oid":"5c09132e3f591d6070d4f898"},"input":"Hi Albert","conversationType":"helper","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913453f591d6070d4f899"},"input":"yo albert","conversationType":"helper","conversationSubject":"General"}
+{"_id":{"$oid":"5c09135d3f591d6070d4f89a"},"input":"sup Albert","conversationType":"helper","conversationSubject":"General"}
+{"_id":{"$oid":"5c09136f3f591d6070d4f89b"},"input":"sup Albert","conversationType":"helper","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913813f591d6070d4f89c"},"input":"hola Albert","conversationType":"helper","conversationSubject":"General"}
+{"_id":{"$oid":"5c09139f3f591d6070d4f89d"},"input":"Hallo Albert","conversationType":"helper","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913b13f591d6070d4f89e"},"input":"guten tag Albert","conversationType":"helper","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913cd3f591d6070d4f89f"},"input":"bonjour Albert","conversationType":"helper","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade21d"},"input":"fix adopt a city street","conversationType":"problem","conversationSubject":"Adopt A City Street App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade21e"},"input":"is the adopt a street app up?","conversationType":"question","conversationSubject":"Adopt A City Street App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade21f"},"input":"is the adopt a city street app up?","conversationType":"question","conversationSubject":"Adopt A City Street App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade220"},"input":"is the aacs app up?","conversationType":"question","conversationSubject":"Adopt A City Street App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade221"},"input":"is the adopt a street app down?","conversationType":"question","conversationSubject":"Adopt A City Street App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade222"},"input":"is the adopt a city street app down?","conversationType":"question","conversationSubject":"Adopt A City Street App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade223"},"input":"is the aacs app down?","conversationType":"question","conversationSubject":"Adopt A City Street App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade224"},"input":"rebuild adopt-a-city-street app","conversationType":"request","conversationSubject":"Adopt A City Street App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade225"},"input":"rebuild adopt a city street app","conversationType":"request","conversationSubject":"Adopt A City Street App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade226"},"input":"rebuild adopt application","conversationType":"request","conversationSubject":"Adopt A City Street App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade227"},"input":"develop adopt a city street application","conversationType":"request","conversationSubject":"Adopt A City Street App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade228"},"input":"develop adopt a city street app","conversationType":"request","conversationSubject":"Adopt A City Street App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade229"},"input":"develop aacs","conversationType":"request","conversationSubject":"Adopt A City Street App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade22a"},"input":"create new aacs","conversationType":"request","conversationSubject":"Adopt A City Street App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade22b"},"input":"is the aiport parking app up?","conversationType":"question","conversationSubject":"Airport Parking App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade22c"},"input":"is the aiport parking app down?","conversationType":"question","conversationSubject":"Airport Parking App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade22d"},"input":"airport parking is broken","conversationType":"problem","conversationSubject":"Airport Parking App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade22e"},"input":"airport parking is not working","conversationType":"problem","conversationSubject":"Airport Parking App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade22f"},"input":"error in airport parking","conversationType":"problem","conversationSubject":"Airport Parking App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade230"},"input":"cant access airport parking","conversationType":"problem","conversationSubject":"Airport Parking App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade231"},"input":"add user to airport parking","conversationType":"request","conversationSubject":"Airport Parking App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade232"},"input":"give access to airport parking","conversationType":"request","conversationSubject":"Airport Parking App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade233"},"input":"add user to airport parking app","conversationType":"request","conversationSubject":"Airport Parking App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade234"},"input":"change airport parking","conversationType":"request","conversationSubject":"Airport Parking App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade235"},"input":"change airport parking app","conversationType":"request","conversationSubject":"Airport Parking App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade236"},"input":"fix airport parking","conversationType":"problem","conversationSubject":"Airport Parking App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade237"},"input":"internal users cannot update parking status","conversationType":"problem","conversationSubject":"Airport Parking App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade238"},"input":"theres is an issue with the airport parking map ","conversationType":"problem","conversationSubject":"Airport Parking App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade239"},"input":"the airport interactive parking application cannot sign in","conversationType":"problem","conversationSubject":"Airport Parking App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade23a"},"input":"the parking system has not been updated","conversationType":"problem","conversationSubject":"Airport Parking App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade23b"},"input":"agol is not working","conversationType":"problem","conversationSubject":"ArcGIS Online"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade23c"},"input":"arcgis online is not working","conversationType":"problem","conversationSubject":"ArcGIS Online"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade23d"},"input":"I cant login to arcgis online","conversationType":"problem","conversationSubject":"ArcGIS Online"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade23e"},"input":"I cant login to arcmap","conversationType":"problem","conversationSubject":"ArcGIS Online"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade23f"},"input":"cant access arcgis online","conversationType":"problem","conversationSubject":"ArcGIS Online"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade240"},"input":"create arcgis online account","conversationType":"request","conversationSubject":"ArcGIS Online"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade241"},"input":"add user arcgis online","conversationType":"request","conversationSubject":"ArcGIS Online"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade242"},"input":"User Access (ArcGIS Online)","conversationType":"request","conversationSubject":"ArcGIS Online"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade243"},"input":"creat AGO accounts for the following users","conversationType":"request","conversationSubject":"ArcGIS Online"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade244"},"input":"create AGO accounts","conversationType":"request","conversationSubject":"ArcGIS Online"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade245"},"input":"please create AGO accounts","conversationType":"request","conversationSubject":"ArcGIS Online"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade246"},"input":"need to increase the maxrecordcount of layer in ArcOnline","conversationType":"request","conversationSubject":"ArcGIS Online"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade247"},"input":"create an arcgis online group","conversationType":"request","conversationSubject":"ArcGIS Online"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade248"},"input":"create AGOL login","conversationType":"request","conversationSubject":"ArcGIS Online"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade249"},"input":"change AGOL login","conversationType":"request","conversationSubject":"ArcGIS Online"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade24a"},"input":"add AGOL login","conversationType":"request","conversationSubject":"ArcGIS Online"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade24b"},"input":"make AGOL login for user","conversationType":"request","conversationSubject":"ArcGIS Online"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade24c"},"input":"create AGO login","conversationType":"request","conversationSubject":"ArcGIS Online"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade24d"},"input":"add AGO login","conversationType":"request","conversationSubject":"ArcGIS Online"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade24e"},"input":"what is arcgis online?","conversationType":"question","conversationSubject":"ArcGIS Online"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade24f"},"input":"what is arcgis online?","conversationType":"question","conversationSubject":"ArcGIS Online"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade250"},"input":"how do I get an arcgis online account?","conversationType":"question","conversationSubject":"ArcGIS Online"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade251"},"input":"how do I get an AGO account?","conversationType":"question","conversationSubject":"ArcGIS Online"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade252"},"input":"how do I get an AGOL account?","conversationType":"question","conversationSubject":"ArcGIS Online"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade253"},"input":"is arcgis online up?","conversationType":"question","conversationSubject":"ArcGIS Online"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade254"},"input":"is arcgis online down?","conversationType":"question","conversationSubject":"ArcGIS Online"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade255"},"input":"transfer ownership of ArcGIS Online content","conversationType":"request","conversationSubject":"ArcGIS Online"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade256"},"input":"create registered application on AGO","conversationType":"request","conversationSubject":"ArcGIS Online"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade257"},"input":"looking to get an ArcGIS Online account created","conversationType":"request","conversationSubject":"ArcGIS Online"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade258"},"input":"I ned an ArcGIS Online account created for a user collecting data","conversationType":"request","conversationSubject":"ArcGIS Online"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade259"},"input":"I cant login to arcgis pro","conversationType":"problem","conversationSubject":"ArcGIS Pro"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade25a"},"input":"ArcPro help","conversationType":"request","conversationSubject":"ArcGIS Pro"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade25b"},"input":"ArcGIS Pro help","conversationType":"request","conversationSubject":"ArcGIS Pro"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade25c"},"input":"ArcPro error","conversationType":"problem","conversationSubject":"ArcGIS Pro"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade25d"},"input":"ArcGIS Pro error","conversationType":"problem","conversationSubject":"ArcGIS Pro"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade25e"},"input":"install arcpro","conversationType":"request","conversationSubject":"ArcGIS Pro"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade25f"},"input":"I need to download ArcGIS Pro extension","conversationType":"request","conversationSubject":"ArcGIS Pro"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade260"},"input":"please install ArcGIS Pro onto my workstation","conversationType":"request","conversationSubject":"ArcGIS Pro"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade261"},"input":"This account does not have an ArcGIS Pro Named User license assigned","conversationType":"problem","conversationSubject":"ArcGIS Pro"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade262"},"input":"unable to connect to ArcGIS Server from ArcGIS Pro","conversationType":"problem","conversationSubject":"ArcGIS Pro"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade263"},"input":"unable to connect to database from pro","conversationType":"problem","conversationSubject":"ArcGIS Pro"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade264"},"input":"cant connect to SDW from ArcPro","conversationType":"problem","conversationSubject":"ArcGIS Pro"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade265"},"input":"ArcMap help","conversationType":"request","conversationSubject":"ArcMap"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade266"},"input":"ArcMap  help","conversationType":"request","conversationSubject":"ArcMap"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade267"},"input":"ArcMap error","conversationType":"problem","conversationSubject":"ArcMap"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade268"},"input":"ArcMap error","conversationType":"problem","conversationSubject":"ArcMap"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade269"},"input":"ArcMap upgrade","conversationType":"request","conversationSubject":"ArcMap"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade26a"},"input":"install arcmap","conversationType":"request","conversationSubject":"ArcMap"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade26b"},"input":"I need to download ArcMap extension","conversationType":"request","conversationSubject":"ArcMap"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade26c"},"input":"virtual charlotte is broken","conversationType":"problem","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade26d"},"input":"charlotte explorer is broken","conversationType":"problem","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade26e"},"input":"cltex is broken","conversationType":"problem","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade26f"},"input":"cltex is not working on mobile","conversationType":"problem","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade270"},"input":"cltex is not working","conversationType":"problem","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade271"},"input":"virtual charlotte is not working","conversationType":"problem","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade272"},"input":"cltex isn't working","conversationType":"problem","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade273"},"input":"charlotte explorer isn't working","conversationType":"problem","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade274"},"input":"cltex is slow","conversationType":"problem","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade275"},"input":"charlotte explorer is slow","conversationType":"problem","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade276"},"input":"virtual charlotte is slow","conversationType":"problem","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade277"},"input":"cltex error","conversationType":"problem","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade278"},"input":"charlotte explorer error","conversationType":"problem","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade279"},"input":"virtual charlotte error","conversationType":"problem","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade27a"},"input":"cltex is failing","conversationType":"problem","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade27b"},"input":"charlotte explorer is failing","conversationType":"problem","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade27c"},"input":"error in charlotte explorer","conversationType":"problem","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade27d"},"input":"cltex issue","conversationType":"problem","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade27e"},"input":"charlotte explorer issue","conversationType":"problem","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade27f"},"input":"cant access cltex","conversationType":"problem","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade280"},"input":"cant access charlotte explorer","conversationType":"problem","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade281"},"input":"add layer to cltex","conversationType":"request","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade282"},"input":"add layer to charlotte explorer","conversationType":"request","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade283"},"input":"add layer to virutal charlotte","conversationType":"request","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade284"},"input":"please add layer to charlotte explorer","conversationType":"request","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade285"},"input":"change symbology on cltex","conversationType":"request","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade286"},"input":"change symbology on charlotte explorer","conversationType":"request","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade287"},"input":"change virtual charlotte symbology","conversationType":"request","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade288"},"input":"build custom cltex integration for UMS","conversationType":"request","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade289"},"input":"develop custom cltex integration for UMS","conversationType":"request","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade28a"},"input":"build charlotte explorer integration for banner","conversationType":"request","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade28b"},"input":"develop charlotte explorer integration for banner","conversationType":"request","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade28c"},"input":"build emerald integration for cltex","conversationType":"request","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade28d"},"input":"develop emerald cltex","conversationType":"request","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade28e"},"input":"create emerald version of charlotte explorer","conversationType":"request","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade28f"},"input":"develop emerald charlotte explorer ","conversationType":"request","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade290"},"input":"Create HNS Charlotte Explorer","conversationType":"request","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade291"},"input":"Develop HNS CLTEx","conversationType":"request","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade292"},"input":"Roll-out Charlotte Explorer external","conversationType":"request","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade293"},"input":"create charlotte explorer external","conversationType":"request","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade294"},"input":"enable transparency for CLTEx aerials","conversationType":"request","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade295"},"input":"change charlotte explorer","conversationType":"request","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade296"},"input":"change cltex","conversationType":"request","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade297"},"input":"change virtual charlotte","conversationType":"request","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade298"},"input":"all he can see in charlotte explorer is the base map no other maps are showing","conversationType":"problem","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade299"},"input":"change the outlink for charlotte explorer","conversationType":"request","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade29a"},"input":"could you please update Charlotte Explorer's basemap","conversationType":"request","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade29b"},"input":"add to internal Charlotte Explorer","conversationType":"request","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade29c"},"input":"don't show fields on charlotte explorer","conversationType":"request","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade29d"},"input":"hide fields on internal cltex","conversationType":"request","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade29e"},"input":"hide fields in charlotte explorer","conversationType":"request","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade29f"},"input":"the following fileds need to be formatted as hyperlinks in the CltEx popup","conversationType":"request","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2a0"},"input":"please add new layer to charlotte explorer","conversationType":"request","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2a1"},"input":"please add new layer to cltex","conversationType":"request","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2a2"},"input":"update CLTEx","conversationType":"request","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2a3"},"input":"update symbology on cltex","conversationType":"request","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2a4"},"input":"update symbology on charlotte explorer","conversationType":"request","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2a5"},"input":"when searching for a parcel the selection is highlighted in orange and outline in blue. However, when I clear the selection the highlight remains","conversationType":"problem","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2a6"},"input":"reporting that her Virtual Charlotte is not displaying the proper information ","conversationType":"problem","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2a7"},"input":"having issues accessing virtual charlotte from all browsers","conversationType":"problem","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2a8"},"input":"change popups","conversationType":"request","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2a9"},"input":"change cltex popups","conversationType":"request","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2aa"},"input":"change cltex popup","conversationType":"request","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2ab"},"input":"please update the layer on charlotte explorer with the new layer","conversationType":"request","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2ac"},"input":"please update the layer on cltex","conversationType":"problem","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2ad"},"input":"fix the basemap","conversationType":"problem","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2ae"},"input":"fix charlotte explorer","conversationType":"problem","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2af"},"input":"fix cltex","conversationType":"problem","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2b0"},"input":"please update the symbology for the layers in charlotte explorer","conversationType":"request","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2b1"},"input":"stormwater layers not drawing on vc.charmeck.org","conversationType":"problem","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2b2"},"input":"please add a new feature class to internal charlotte explorer","conversationType":"request","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2b3"},"input":"I need to update the aliases of two fields in charlotte explorer pop-up","conversationType":"request","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2b4"},"input":"I need to update the cltex pop-up","conversationType":"request","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2b5"},"input":"stating that he cant access a location on Charlotte explorer","conversationType":"problem","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2b6"},"input":"please add layer to Charlotte Explorer","conversationType":"request","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2b7"},"input":"ran into a few issues when trying to access CltEx on mobile devices","conversationType":"problem","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2b8"},"input":"none of the layers in Virtual Charlotte / Charlotte Explorer are showing up","conversationType":"problem","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2b9"},"input":"please add birdseye view to Charlotte Explorer","conversationType":"request","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2ba"},"input":"please add birdseye to CLTEx","conversationType":"request","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2bb"},"input":"it does not appear that the CLTEx basemap is being updated","conversationType":"problem","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2bc"},"input":"please add the feature layer to Charlotte Explorer","conversationType":"request","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2bd"},"input":"please add the feature layer to CLTEx","conversationType":"request","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2be"},"input":"selecting features in charlotte explorer is slow","conversationType":"problem","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2bf"},"input":"selecting features in cltex is slow","conversationType":"problem","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2c0"},"input":"cltex very delayed","conversationType":"problem","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2c1"},"input":"charlotte explorer very delayed","conversationType":"problem","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2c2"},"input":"virtual charlotte training","conversationType":"training","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2c3"},"input":"cltex training","conversationType":"training","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2c4"},"input":"cltex documentation","conversationType":"training","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2c5"},"input":"charlotte explorer training and tutorials","conversationType":"training","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2c6"},"input":"charlotte explorer documentation","conversationType":"training","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2c7"},"input":"when are we releasing CLTEx?","conversationType":"question","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2c8"},"input":"when are we releasing cltex?","conversationType":"question","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2c9"},"input":"when does charlotte explorer come out?","conversationType":"question","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2ca"},"input":"who manages charlotte explorer?","conversationType":"question","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2cb"},"input":"who manages cltex?","conversationType":"question","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2cc"},"input":"when will charlotte explorer get updated?","conversationType":"question","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2cd"},"input":"is charlotte explorer up?","conversationType":"question","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2ce"},"input":"is cltex up?","conversationType":"question","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2cf"},"input":"is cltex down?","conversationType":"question","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2d0"},"input":"is charlotte explorer down?","conversationType":"question","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2d1"},"input":"enable the link for cmpd's popup in virtual charlotte","conversationType":"request","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2d2"},"input":"layers not drawing on virtual charlotte","conversationType":"problem","conversationSubject":"Charlotte Explorer"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2d3"},"input":"I cant see my data","conversationType":"problem","conversationSubject":"Data"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2d4"},"input":"my data is wrong","conversationType":"problem","conversationSubject":"Data"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2d5"},"input":"I cant load my data","conversationType":"problem","conversationSubject":"Data"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2d6"},"input":"my data is missing","conversationType":"problem","conversationSubject":"Data"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2d7"},"input":"data is missing","conversationType":"problem","conversationSubject":"Data"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2d8"},"input":"data is gone","conversationType":"problem","conversationSubject":"Data"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2d9"},"input":"data disappeared","conversationType":"problem","conversationSubject":"Data"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2da"},"input":"set up script to move files","conversationType":"request","conversationSubject":"Data"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2db"},"input":"we need to restore data","conversationType":"request","conversationSubject":"Data"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2dc"},"input":"restore deleted file","conversationType":"request","conversationSubject":"Data"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2dd"},"input":"copy external data from public facing folder","conversationType":"request","conversationSubject":"Data"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2de"},"input":"feature class cannot be updated","conversationType":"problem","conversationSubject":"Data"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2df"},"input":"feature class cannot be compressed","conversationType":"problem","conversationSubject":"Data"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2e0"},"input":"need to add two values to database","conversationType":"request","conversationSubject":"Data"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2e1"},"input":"create an archive geodatabase","conversationType":"request","conversationSubject":"Data"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2e2"},"input":"I would like to grant read only rights to staff","conversationType":"request","conversationSubject":"Data"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2e3"},"input":"please grant user editing priveleges to dataset","conversationType":"request","conversationSubject":"Data"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2e4"},"input":"pull a backup of edit database and restore","conversationType":"request","conversationSubject":"Data"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2e5"},"input":"gather data for the quality of life explorer","conversationType":"request","conversationSubject":"Data"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2e6"},"input":"data is missing after reconciling and post","conversationType":"problem","conversationSubject":"Data"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2e7"},"input":"please restore the full backup of the edit database","conversationType":"request","conversationSubject":"Data"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2e8"},"input":"dropzone is failing","conversationType":"problem","conversationSubject":"Dropzone"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2e9"},"input":"dropzone isn't updating","conversationType":"problem","conversationSubject":"Dropzone"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2ea"},"input":"dropzone is stuck","conversationType":"problem","conversationSubject":"Dropzone"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2eb"},"input":"dropzone sucks","conversationType":"problem","conversationSubject":"Dropzone"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2ec"},"input":"access esri training online","conversationType":"training","conversationSubject":"Esri"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2ed"},"input":"allow esri training","conversationType":"training","conversationSubject":"Esri"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2ee"},"input":"Esri courses","conversationType":"training","conversationSubject":"Esri"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2ef"},"input":"Esri support site","conversationType":"training","conversationSubject":"Esri"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2f0"},"input":"what is Esri?","conversationType":"question","conversationSubject":"Esri"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2f1"},"input":"how can I contact esri support?","conversationType":"question","conversationSubject":"Esri"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2f2"},"input":"rebuild GDP for planning","conversationType":"request","conversationSubject":"GDP App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2f3"},"input":"rebuild GDP for planning department","conversationType":"request","conversationSubject":"GDP App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2f4"},"input":"create GDP replacement","conversationType":"request","conversationSubject":"GDP App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2f5"},"input":"develop new GDP replacement","conversationType":"request","conversationSubject":"GDP App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2f6"},"input":"fix GDP","conversationType":"problem","conversationSubject":"GDP App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2f7"},"input":"is GDP up?","conversationType":"question","conversationSubject":"GDP App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2f8"},"input":"is GDP down?","conversationType":"question","conversationSubject":"GDP App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2f9"},"input":"is the GDP app up?","conversationType":"question","conversationSubject":"GDP App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2fa"},"input":"is the GDP app down?","conversationType":"question","conversationSubject":"GDP App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2fb"},"input":"the GIS is down","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2fc"},"input":"ArcGIS is broken","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2fd"},"input":"ArcGIS is not working","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2fe"},"input":"ArcGIS is slow","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade2ff"},"input":"error","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade300"},"input":"problem","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade301"},"input":"broken","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade302"},"input":"not working","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade303"},"input":"slow","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade304"},"input":"fail","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade305"},"input":"failing","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade306"},"input":"issues","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade307"},"input":"issue","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade308"},"input":"create web app","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade309"},"input":"develop web app","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade30a"},"input":"develop amazon alexa application","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade30b"},"input":"create cltw asset management app","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade30c"},"input":"create simple government app","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade30d"},"input":"upgrade enteprise gis","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade30e"},"input":"request","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade30f"},"input":"decomission legacy machines","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade310"},"input":"develop lightweight mapping application","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade311"},"input":"build custom system monitoring application for GIS","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade312"},"input":"rebuild custom SQL mapper for IT","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade313"},"input":"create SQLLite mapping application for subhash","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade314"},"input":"create new application ","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade315"},"input":"create new app","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade316"},"input":"develop app","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade317"},"input":"develop application","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade318"},"input":"develop new app","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade319"},"input":"develop new application","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade31a"},"input":"create app","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade31b"},"input":"create application","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade31c"},"input":"build AR application for Charlotte OPCC","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade31d"},"input":"Build GIS site for the City","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade31e"},"input":"create field mobile directions app","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade31f"},"input":"develop field directions app","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade320"},"input":"add transparency option to aerials","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade321"},"input":"grant access to oblique imagery","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade322"},"input":"grant access to imagery","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade323"},"input":"need to get read access to CDOT's shared directory","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade324"},"input":"Consultation on Street Resurfacing Workflows & Potential for Service Based Solution","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade325"},"input":"requesting new service accounts","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade326"},"input":"hide fields","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade327"},"input":"information is not there","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade328"},"input":"information is wrong","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade329"},"input":"the GIS map streets disappeared","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade32a"},"input":"map is missing","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade32b"},"input":"layer is missing","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade32c"},"input":"map disappeared","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade32d"},"input":"please reassign ownership of maps to","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade32e"},"input":"please assign ownership to","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade32f"},"input":"the issue seems to be widespread","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade330"},"input":"please turn on field in  layer","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade331"},"input":"show fields in popups","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade332"},"input":"hide fields in popups","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade333"},"input":"show field in popup","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade334"},"input":"hide field in popup","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade335"},"input":"change title","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade336"},"input":"install esri","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade337"},"input":"install arcgis","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade338"},"input":"install gis","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade339"},"input":"install arc","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade33a"},"input":"publish to dev","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade33b"},"input":"build field monitor application","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade33c"},"input":"fix the app","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade33d"},"input":"fix app","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade33e"},"input":"fix web map","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade33f"},"input":"fix","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade340"},"input":"I am unable to add a new domain","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade341"},"input":"versioning issue","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade342"},"input":"version issue","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade343"},"input":"versions not compatible","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade344"},"input":"request","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade345"},"input":"request for dashboard","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade346"},"input":"request for emergency dashboard","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade347"},"input":"please help","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade348"},"input":"\"please help, I am having issues","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade349"},"input":"setup","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade34a"},"input":"these errors showed up in the log ","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade34b"},"input":"it is showing a layer error","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade34c"},"input":"cannot load layer","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade34d"},"input":"please create a hybrid basemap","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade34e"},"input":"getting the error message","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade34f"},"input":"The layer(s) cannot be added","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade350"},"input":"The layer)s) cannot be found","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade351"},"input":"could not see any of the layers","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade352"},"input":"this connection is not private","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade353"},"input":"not any of the information is showing up in any of the layers ","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade354"},"input":"basemap not avaialable","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade355"},"input":"layer list wont even open","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade356"},"input":"layer is not working","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade357"},"input":"learn more about GIS and location intelligence","conversationType":"training","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade358"},"input":"learn more about GIS","conversationType":"training","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade359"},"input":"learn more about location intelligence","conversationType":"training","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade35a"},"input":"aerials not showing","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade35b"},"input":"aerials have random tiles missing when zooming","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade35c"},"input":"not able to see the base map in Arc GIS","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade35d"},"input":"base map is not available","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade35e"},"input":"basemap is not available","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade35f"},"input":"404","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade360"},"input":"error 404","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade361"},"input":"basemap is not available, displaying default map instead","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade362"},"input":"base map is not available,  displaying default base map instead","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade363"},"input":"ECONNREFUSED","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade364"},"input":"ECONNREFUSED: error message","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade365"},"input":"error message","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade366"},"input":"they have not been updated in the basemap","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade367"},"input":"asking for a application to evaluate tax history","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade368"},"input":"get rid of the two old machines in our GIS","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade369"},"input":"deliver scope ","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade36a"},"input":"deploy new application","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade36b"},"input":"files missing","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade36c"},"input":"files gone","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade36d"},"input":"cannot connect to database","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade36e"},"input":"cannot connect to server","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade36f"},"input":"cannot login","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade370"},"input":"login fails","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade371"},"input":"login error","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade372"},"input":"the machine cannot be pinged","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade373"},"input":"website is inaccessible","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade374"},"input":"website is down","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade375"},"input":"website error","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade376"},"input":"create new website","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade377"},"input":"knowledge base","conversationType":"training","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade378"},"input":"knowledge","conversationType":"training","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade379"},"input":"training","conversationType":"training","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade37a"},"input":"learning","conversationType":"training","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade37b"},"input":"education","conversationType":"training","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade37c"},"input":"GIS enterprise program","conversationType":"training","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade37d"},"input":"free online courses","conversationType":"training","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade37e"},"input":"HR training","conversationType":"training","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade37f"},"input":"training survey","conversationType":"training","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade380"},"input":"training needs","conversationType":"training","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade381"},"input":"education needs","conversationType":"training","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade382"},"input":"employee development ","conversationType":"training","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade383"},"input":"ODL ","conversationType":"training","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade384"},"input":"ODL training","conversationType":"training","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade385"},"input":"HR ODL","conversationType":"training","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade386"},"input":"application is slow","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade387"},"input":"application is lagging","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade388"},"input":"can the layer be ordered to show beneath all other data?","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade389"},"input":"complaints that it is difficult to see and select data","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade38a"},"input":"unable to access internet sites","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade38b"},"input":"I need help","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade38c"},"input":"help","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade38d"},"input":"cannot find data","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade38e"},"input":"cannot find layer","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade38f"},"input":"want to learn","conversationType":"training","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade390"},"input":"excel training","conversationType":"training","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade391"},"input":"tutorials","conversationType":"training","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade392"},"input":"GIS wiki","conversationType":"training","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade393"},"input":"GIS documentation","conversationType":"training","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade394"},"input":"coursera","conversationType":"training","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade395"},"input":"tips and tricks","conversationType":"training","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade396"},"input":"when are we upgrading our GIS?","conversationType":"question","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade397"},"input":"what is the GET?","conversationType":"question","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade398"},"input":"what is GIS?","conversationType":"question","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade399"},"input":"is GIS free?","conversationType":"question","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade39a"},"input":"why use GIS","conversationType":"question","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade39b"},"input":"why use GIS?","conversationType":"question","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade39c"},"input":"where can I get training?","conversationType":"question","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade39d"},"input":"what is location intelligence?","conversationType":"question","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade39e"},"input":"what can GIS do?","conversationType":"question","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade39f"},"input":"is the GIS up?","conversationType":"question","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3a0"},"input":"is the GIS down?","conversationType":"question","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3a1"},"input":"my web map is broken","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3a2"},"input":"my web map isn't loading","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3a3"},"input":"my web map is not working","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3a4"},"input":"my web app is not working","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3a5"},"input":"software installation","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3a6"},"input":"create layer ","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3a7"},"input":"unable to access authentication service","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3a8"},"input":"hyperlinks return a 404 error","conversationType":"problem","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3a9"},"input":"we need the link to work for application ","conversationType":"request","conversationSubject":"General"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3aa"},"input":"geoclear is not working","conversationType":"problem","conversationSubject":"GeoClear"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3ab"},"input":"geoclear returning bad values","conversationType":"problem","conversationSubject":"GeoClear"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3ac"},"input":"move GeoClear to new machine","conversationType":"request","conversationSubject":"GeoClear"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3ad"},"input":"geoclear is broken","conversationType":"problem","conversationSubject":"GeoClear"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3ae"},"input":"geoclear is not behaving as expected","conversationType":"problem","conversationSubject":"GeoClear"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3af"},"input":"cannot access geoclear","conversationType":"problem","conversationSubject":"GeoClear"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3b0"},"input":"replace or update geoclear","conversationType":"request","conversationSubject":"GeoClear"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3b1"},"input":"geoclear feed is bad","conversationType":"problem","conversationSubject":"GeoClear"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3b2"},"input":"please add 500 GB of storage","conversationType":"request","conversationSubject":"Infrastructure / Technology"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3b3"},"input":"requesting additional storage","conversationType":"request","conversationSubject":"Infrastructure / Technology"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3b4"},"input":"running out of storage","conversationType":"problem","conversationSubject":"Infrastructure / Technology"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3b5"},"input":"not enough storage","conversationType":"problem","conversationSubject":"Infrastructure / Technology"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3b6"},"input":"update the internal DNS record","conversationType":"request","conversationSubject":"Infrastructure / Technology"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3b7"},"input":"I'm looking to have SMTP relay setup on this machine","conversationType":"request","conversationSubject":"Infrastructure / Technology"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3b8"},"input":"hard disk maintenance needs to be performed","conversationType":"problem","conversationSubject":"Infrastructure / Technology"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3b9"},"input":"create new sharepoint","conversationType":"request","conversationSubject":"Infrastructure / Technology"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3ba"},"input":"set up tnsnames.ora","conversationType":"request","conversationSubject":"Infrastructure / Technology"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3bb"},"input":"create an external DNS entry","conversationType":"request","conversationSubject":"Infrastructure / Technology"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3bc"},"input":"external facing web-server is down","conversationType":"problem","conversationSubject":"Infrastructure / Technology"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3bd"},"input":"server is down","conversationType":"problem","conversationSubject":"Infrastructure / Technology"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3be"},"input":"cannot access server","conversationType":"problem","conversationSubject":"Infrastructure / Technology"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3bf"},"input":"assign the DNS entries to the internal machines","conversationType":"request","conversationSubject":"Infrastructure / Technology"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3c0"},"input":"enable SMTP relay ","conversationType":"request","conversationSubject":"Infrastructure / Technology"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3c1"},"input":"the server is down","conversationType":"problem","conversationSubject":"Infrastructure / Technology"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3c2"},"input":"the server isn't working","conversationType":"problem","conversationSubject":"Infrastructure / Technology"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3c3"},"input":"create AD groups","conversationType":"request","conversationSubject":"Infrastructure / Technology"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3c4"},"input":"create active directory groups","conversationType":"request","conversationSubject":"Infrastructure / Technology"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3c5"},"input":"make new AD groups","conversationType":"request","conversationSubject":"Infrastructure / Technology"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3c6"},"input":"please make new active directory groups","conversationType":"request","conversationSubject":"Infrastructure / Technology"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3c7"},"input":"active directory configuration","conversationType":"request","conversationSubject":"Infrastructure / Technology"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3c8"},"input":"our servers have been very slow with high CPU","conversationType":"problem","conversationSubject":"Infrastructure / Technology"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3c9"},"input":"need an authorization file for new servers","conversationType":"request","conversationSubject":"Infrastructure / Technology"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3ca"},"input":"create email distribution list","conversationType":"request","conversationSubject":"Infrastructure / Technology"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3cb"},"input":"add ArcGIS Pro 2.2 to the software center","conversationType":"request","conversationSubject":"Infrastructure / Technology"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3cc"},"input":"job is failing","conversationType":"problem","conversationSubject":"Job / Script / ETL"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3cd"},"input":"ETL failing","conversationType":"problem","conversationSubject":"Job / Script / ETL"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3ce"},"input":"job failing","conversationType":"problem","conversationSubject":"Job / Script / ETL"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3cf"},"input":"job not running","conversationType":"problem","conversationSubject":"Job / Script / ETL"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3d0"},"input":"script is failing","conversationType":"problem","conversationSubject":"Job / Script / ETL"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3d1"},"input":"script is not working","conversationType":"problem","conversationSubject":"Job / Script / ETL"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3d2"},"input":"python script is failing","conversationType":"problem","conversationSubject":"Job / Script / ETL"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3d3"},"input":"python script error","conversationType":"problem","conversationSubject":"Job / Script / ETL"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3d4"},"input":"job failing","conversationType":"problem","conversationSubject":"Job / Script / ETL"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3d5"},"input":"weekly load job failed due to null value ","conversationType":"problem","conversationSubject":"Job / Script / ETL"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3d6"},"input":"SSIS configuration file missing","conversationType":"problem","conversationSubject":"Job / Script / ETL"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3d7"},"input":"locator issue","conversationType":"problem","conversationSubject":"Locator Service"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3d8"},"input":"rebuild the city's locators","conversationType":"request","conversationSubject":"Locator Service"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3d9"},"input":"rebuild the city's geocode services","conversationType":"request","conversationSubject":"Locator Service"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3da"},"input":"make new special transportation service locator","conversationType":"request","conversationSubject":"Locator Service"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3db"},"input":"create new geocode service","conversationType":"request","conversationSubject":"Locator Service"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3dc"},"input":"create new special transportaion locator for CATS","conversationType":"request","conversationSubject":"Locator Service"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3dd"},"input":"publish locator service for Charlotte Area Transit","conversationType":"request","conversationSubject":"Locator Service"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3de"},"input":"fix locator","conversationType":"problem","conversationSubject":"Locator Service"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3df"},"input":"sign up for opex","conversationType":"training","conversationSubject":"Op Ex Academy"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3e0"},"input":"sing up for op ex","conversationType":"training","conversationSubject":"Op Ex Academy"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3e1"},"input":"op ex","conversationType":"training","conversationSubject":"Op Ex Academy"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3e2"},"input":"opex","conversationType":"training","conversationSubject":"Op Ex Academy"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3e3"},"input":"Op Ex training","conversationType":"training","conversationSubject":"Op Ex Academy"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3e4"},"input":"Op Ex classes","conversationType":"training","conversationSubject":"Op Ex Academy"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3e5"},"input":"Op Ex courses","conversationType":"training","conversationSubject":"Op Ex Academy"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3e6"},"input":"sign up for training","conversationType":"training","conversationSubject":"Op Ex Academy"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3e7"},"input":"sign up for op ex","conversationType":"training","conversationSubject":"Op Ex Academy"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3e8"},"input":"sign up for op ex courses","conversationType":"training","conversationSubject":"Op Ex Academy"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3e9"},"input":"sign up for op ex training ","conversationType":"training","conversationSubject":"Op Ex Academy"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3ea"},"input":"op ex training schedule","conversationType":"training","conversationSubject":"Op Ex Academy"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3eb"},"input":"register for training","conversationType":"training","conversationSubject":"Op Ex Academy"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3ec"},"input":"open data portal request","conversationType":"request","conversationSubject":"Open Data Portal"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3ed"},"input":"add to odp","conversationType":"request","conversationSubject":"Open Data Portal"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3ee"},"input":"add to open data portal","conversationType":"request","conversationSubject":"Open Data Portal"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3ef"},"input":"publish to open data portal","conversationType":"request","conversationSubject":"Open Data Portal"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3f0"},"input":"remove from open data","conversationType":"request","conversationSubject":"Open Data Portal"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3f1"},"input":"remove from open data portal","conversationType":"request","conversationSubject":"Open Data Portal"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3f2"},"input":"remove from ODP","conversationType":"request","conversationSubject":"Open Data Portal"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3f3"},"input":"add to open data ","conversationType":"request","conversationSubject":"Open Data Portal"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3f4"},"input":"modify odp","conversationType":"request","conversationSubject":"Open Data Portal"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3f5"},"input":"change odp site","conversationType":"request","conversationSubject":"Open Data Portal"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3f6"},"input":"change open data portal","conversationType":"request","conversationSubject":"Open Data Portal"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3f7"},"input":"data published on the Open Data Portal does not match the master MXD","conversationType":"problem","conversationSubject":"Open Data Portal"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3f8"},"input":"is the open data portal up?","conversationType":"question","conversationSubject":"Open Data Portal"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3f9"},"input":"is the open data portal down?","conversationType":"question","conversationSubject":"Open Data Portal"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3fa"},"input":"is the odp up?","conversationType":"question","conversationSubject":"Open Data Portal"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3fb"},"input":"is the odp down?","conversationType":"question","conversationSubject":"Open Data Portal"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3fc"},"input":"is oris up?","conversationType":"question","conversationSubject":"ORIS App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3fd"},"input":"is oris down?","conversationType":"question","conversationSubject":"ORIS App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3fe"},"input":"fix ORIS","conversationType":"problem","conversationSubject":"ORIS App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade3ff"},"input":"ORIS is displaying a blank screen","conversationType":"problem","conversationSubject":"ORIS App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade400"},"input":"update ORIS","conversationType":"request","conversationSubject":"ORIS App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade401"},"input":"make changes to ORIS","conversationType":"request","conversationSubject":"ORIS App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade402"},"input":"ORIS error","conversationType":"problem","conversationSubject":"ORIS App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade403"},"input":"ORIS slow and timing out","conversationType":"problem","conversationSubject":"ORIS App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade404"},"input":"ORIS is down","conversationType":"problem","conversationSubject":"ORIS App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade405"},"input":"add data to ORIS","conversationType":"request","conversationSubject":"ORIS App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade406"},"input":"change ORIS","conversationType":"request","conversationSubject":"ORIS App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade407"},"input":"add to portal","conversationType":"request","conversationSubject":"Portal for ArcGIS"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade408"},"input":"publish to portal","conversationType":"request","conversationSubject":"Portal for ArcGIS"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade409"},"input":"I need an ArcGIS Portal account","conversationType":"request","conversationSubject":"Portal for ArcGIS"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade40a"},"input":"create a portal group for sharing","conversationType":"request","conversationSubject":"Portal for ArcGIS"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade40b"},"input":"needs access to ArcGIS Portal","conversationType":"request","conversationSubject":"Portal for ArcGIS"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade40c"},"input":"what is portal?","conversationType":"question","conversationSubject":"Portal for ArcGIS"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade40d"},"input":"what is portal?","conversationType":"question","conversationSubject":"Portal for ArcGIS"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade40e"},"input":"create registered application on Portal for Cityworks","conversationType":"request","conversationSubject":"Portal for ArcGIS"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade40f"},"input":"rebuild the basemaps","conversationType":"request","conversationSubject":"REST Services"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade410"},"input":"users cant see services","conversationType":"problem","conversationSubject":"REST Services"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade411"},"input":"services are down","conversationType":"problem","conversationSubject":"REST Services"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade412"},"input":"publish new service","conversationType":"request","conversationSubject":"REST Services"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade413"},"input":"create new service","conversationType":"request","conversationSubject":"REST Services"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade414"},"input":"publish aerials","conversationType":"request","conversationSubject":"REST Services"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade415"},"input":"update master MXD","conversationType":"request","conversationSubject":"REST Services"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade416"},"input":"publish master service","conversationType":"request","conversationSubject":"REST Services"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade417"},"input":"publish master mxd","conversationType":"request","conversationSubject":"REST Services"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade418"},"input":"requesting a new GIS service","conversationType":"request","conversationSubject":"REST Services"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade419"},"input":"I cant see SDW","conversationType":"problem","conversationSubject":"SDW"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade41a"},"input":"SDW is not showing my data","conversationType":"problem","conversationSubject":"SDW"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade41b"},"input":"remove data from SDW","conversationType":"request","conversationSubject":"SDW"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade41c"},"input":"remove from sdw","conversationType":"request","conversationSubject":"SDW"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade41d"},"input":"remove feature class from SDW","conversationType":"request","conversationSubject":"SDW"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade41e"},"input":"update feature class ","conversationType":"request","conversationSubject":"SDW"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade41f"},"input":"schema change","conversationType":"request","conversationSubject":"SDW"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade420"},"input":"change feature class schema","conversationType":"request","conversationSubject":"SDW"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade421"},"input":"remove layer from sdw","conversationType":"request","conversationSubject":"SDW"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade422"},"input":"add layer to sdw","conversationType":"request","conversationSubject":"SDW"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade423"},"input":"please add CharlotteStreetsPlan_ln feature class to SDW","conversationType":"request","conversationSubject":"SDW"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade424"},"input":"please add  feature class on cdot_edit to SDW","conversationType":"request","conversationSubject":"SDW"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade425"},"input":"add data from SDW from edit","conversationType":"request","conversationSubject":"SDW"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade426"},"input":"please add a new feature class to internal SDW","conversationType":"request","conversationSubject":"SDW"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade427"},"input":"please replace the current feature class on SDW with the new one","conversationType":"request","conversationSubject":"SDW"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade428"},"input":"who manages sdw?","conversationType":"question","conversationSubject":"SDW"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade429"},"input":"how do I connect to SDW?","conversationType":"question","conversationSubject":"SDW"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade42a"},"input":"is sdw up?","conversationType":"question","conversationSubject":"SDW"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade42b"},"input":"is sdw down?","conversationType":"question","conversationSubject":"SDW"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade42c"},"input":"what version is SDW?","conversationType":"question","conversationSubject":"SDW"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade42d"},"input":"create a new column in the table","conversationType":"request","conversationSubject":"SDW"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade42e"},"input":"I would like to have feature classes moved to SDW","conversationType":"request","conversationSubject":"SDW"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade42f"},"input":"Need to copy / update all data from external SDW","conversationType":"request","conversationSubject":"SDW"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade430"},"input":"please backup database","conversationType":"request","conversationSubject":"SDW"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade431"},"input":"please restore database","conversationType":"request","conversationSubject":"SDW"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade432"},"input":"add feature classes to SDW","conversationType":"request","conversationSubject":"SDW"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade433"},"input":"update metadata on SDW","conversationType":"request","conversationSubject":"SDW"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade434"},"input":"the table did not load correctly in SDW and is missing data","conversationType":"problem","conversationSubject":"SDW"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade435"},"input":"enable https","conversationType":"request","conversationSubject":"Security"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade436"},"input":"not working over https","conversationType":"problem","conversationSubject":"Security"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade437"},"input":"citys certificates are not trusted by chrome","conversationType":"problem","conversationSubject":"Security"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade438"},"input":"city's certs are not trusted","conversationType":"problem","conversationSubject":"Security"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade439"},"input":"citys certs are untrusted","conversationType":"problem","conversationSubject":"Security"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade43a"},"input":"https not working","conversationType":"problem","conversationSubject":"Security"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade43b"},"input":"policy exception","conversationType":"request","conversationSubject":"Security"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade43c"},"input":"firewall rule","conversationType":"request","conversationSubject":"Security"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade43d"},"input":"please allow access through port 1433","conversationType":"request","conversationSubject":"Security"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade43e"},"input":"please allow access through port 1858","conversationType":"request","conversationSubject":"Security"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade43f"},"input":"open port 6443","conversationType":"request","conversationSubject":"Security"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade440"},"input":"open port 6080","conversationType":"request","conversationSubject":"Security"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade441"},"input":"certificate requests","conversationType":"request","conversationSubject":"Security"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade442"},"input":"firewall request","conversationType":"request","conversationSubject":"Security"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade443"},"input":"request for city servers and workstations to mecklenburg servers","conversationType":"request","conversationSubject":"Security"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade444"},"input":"SQL failure","conversationType":"problem","conversationSubject":"SQL"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade445"},"input":"what is SQL?","conversationType":"question","conversationSubject":"SQL"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade446"},"input":"upgrade SQL","conversationType":"request","conversationSubject":"SQL"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade447"},"input":"Whats the difference between SQL and SQL Server?","conversationType":"question","conversationSubject":"SQL"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade448"},"input":"\"SQL query failing with error","conversationType":"problem","conversationSubject":"SQL"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade449"},"input":"Cannot connect to SQL","conversationType":"problem","conversationSubject":"SQL"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade44a"},"input":"SQL training","conversationType":"training","conversationSubject":"SQL"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade44b"},"input":"SQL error","conversationType":"problem","conversationSubject":"SQL"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade44c"},"input":"sql job failed","conversationType":"problem","conversationSubject":"SQL"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade44d"},"input":"sql job failing","conversationType":"problem","conversationSubject":"SQL"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade44e"},"input":"the sql agent job failed with this error","conversationType":"problem","conversationSubject":"SQL"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade44f"},"input":"who is the gis dba?","conversationType":"question","conversationSubject":"Staff / Point of Contact"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade450"},"input":"what is the Decision Analytics Team?","conversationType":"question","conversationSubject":"Staff / Point of Contact"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade451"},"input":"who manages the GIS?","conversationType":"question","conversationSubject":"Staff / Point of Contact"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade452"},"input":"how do I contact IT?","conversationType":"question","conversationSubject":"Staff / Point of Contact"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade453"},"input":"who's the GET president?","conversationType":"question","conversationSubject":"Staff / Point of Contact"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade454"},"input":"who is the GET chair?","conversationType":"question","conversationSubject":"Staff / Point of Contact"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade455"},"input":"who's the GET chair?","conversationType":"question","conversationSubject":"Staff / Point of Contact"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade456"},"input":"who is the GET president?","conversationType":"question","conversationSubject":"Staff / Point of Contact"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade457"},"input":"who is in charge of the GET?","conversationType":"question","conversationSubject":"Staff / Point of Contact"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade458"},"input":"who is the city's GIS manager?","conversationType":"question","conversationSubject":"Staff / Point of Contact"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade459"},"input":"who is the CIO?","conversationType":"question","conversationSubject":"Staff / Point of Contact"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade45a"},"input":"who is in charge of GIS?","conversationType":"question","conversationSubject":"Staff / Point of Contact"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade45b"},"input":"who do I talk to about GIS?","conversationType":"question","conversationSubject":"Staff / Point of Contact"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade45c"},"input":"who is the Decision Analytics Team Manager?","conversationType":"question","conversationSubject":"Staff / Point of Contact"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade45d"},"input":"who is the city manager?","conversationType":"question","conversationSubject":"Staff / Point of Contact"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade45e"},"input":"how do I contact the GIS team?","conversationType":"question","conversationSubject":"Staff / Point of Contact"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade45f"},"input":"Who is the GIS Developer?","conversationType":"question","conversationSubject":"Staff / Point of Contact"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade460"},"input":"who is the GIS DBA?","conversationType":"question","conversationSubject":"Staff / Point of Contact"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade461"},"input":"who is the gis developer?","conversationType":"question","conversationSubject":"Staff / Point of Contact"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade462"},"input":"street closure app is broken","conversationType":"problem","conversationSubject":"Street Closures and Detours App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade463"},"input":"street closure is broken","conversationType":"problem","conversationSubject":"Street Closures and Detours App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade464"},"input":"street closure app is not working","conversationType":"problem","conversationSubject":"Street Closures and Detours App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade465"},"input":"street closures is not working","conversationType":"problem","conversationSubject":"Street Closures and Detours App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade466"},"input":"street closures and detours is not working","conversationType":"problem","conversationSubject":"Street Closures and Detours App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade467"},"input":"street closures and detours is broken","conversationType":"problem","conversationSubject":"Street Closures and Detours App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade468"},"input":"street closures error","conversationType":"problem","conversationSubject":"Street Closures and Detours App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade469"},"input":"street closures app error","conversationType":"problem","conversationSubject":"Street Closures and Detours App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade46a"},"input":"street closures app down","conversationType":"problem","conversationSubject":"Street Closures and Detours App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade46b"},"input":"street closures isnt working","conversationType":"problem","conversationSubject":"Street Closures and Detours App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade46c"},"input":"street closures app is broken","conversationType":"problem","conversationSubject":"Street Closures and Detours App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade46d"},"input":"fix street closures and detours","conversationType":"problem","conversationSubject":"Street Closures and Detours App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade46e"},"input":"fix street closures app","conversationType":"problem","conversationSubject":"Street Closures and Detours App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade46f"},"input":"the search box on the Street Closures page does not find all the results","conversationType":"problem","conversationSubject":"Street Closures and Detours App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade470"},"input":"closures not working","conversationType":"problem","conversationSubject":"Street Closures and Detours App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade471"},"input":"is the street closure and detours app up?","conversationType":"question","conversationSubject":"Street Closures and Detours App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade472"},"input":"is the street closure and detours app down?","conversationType":"question","conversationSubject":"Street Closures and Detours App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade473"},"input":"is the street closure app up?","conversationType":"question","conversationSubject":"Street Closures and Detours App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade474"},"input":"is the street closure app down?","conversationType":"question","conversationSubject":"Street Closures and Detours App"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade475"},"input":"where is the datahub?","conversationType":"question","conversationSubject":"The Data Hub"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade476"},"input":"where is the data hub?","conversationType":"question","conversationSubject":"The Data Hub"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade477"},"input":"the data hub is not working","conversationType":"problem","conversationSubject":"The Data Hub"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade478"},"input":"data hub is broken","conversationType":"problem","conversationSubject":"The Data Hub"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade479"},"input":"cant access data hub","conversationType":"problem","conversationSubject":"The Data Hub"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade47a"},"input":"data hub error","conversationType":"problem","conversationSubject":"The Data Hub"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade47b"},"input":"New Shared Data","conversationType":"request","conversationSubject":"The Data Hub"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade47c"},"input":"new shared data request","conversationType":"request","conversationSubject":"The Data Hub"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade47d"},"input":"add to data hub","conversationType":"request","conversationSubject":"The Data Hub"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade47e"},"input":"publish to data hub","conversationType":"request","conversationSubject":"The Data Hub"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade47f"},"input":"New Data or Copy Data","conversationType":"request","conversationSubject":"The Data Hub"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade480"},"input":"develop the front end and back end up the data hub","conversationType":"request","conversationSubject":"The Data Hub"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade481"},"input":"what is the data hub?","conversationType":"question","conversationSubject":"The Data Hub"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade482"},"input":"what is the datahub?","conversationType":"question","conversationSubject":"The Data Hub"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade483"},"input":"what's the datahub?","conversationType":"question","conversationSubject":"The Data Hub"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade484"},"input":"is the data hub up?","conversationType":"question","conversationSubject":"The Data Hub"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade485"},"input":"is the data hub down?","conversationType":"question","conversationSubject":"The Data Hub"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade486"},"input":"is the datahub up?","conversationType":"question","conversationSubject":"The Data Hub"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade487"},"input":"is the datahub down?","conversationType":"question","conversationSubject":"The Data Hub"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade488"},"input":"add data to the dataset census","conversationType":"request","conversationSubject":"The Data Hub"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade489"},"input":"how do I add data to the datahub?","conversationType":"question","conversationSubject":"The Data Hub"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade48a"},"input":"datahub is not working in browser","conversationType":"problem","conversationSubject":"The Data Hub"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade48b"},"input":"add fields to datahub submission","conversationType":"request","conversationSubject":"The Data Hub"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade48c"},"input":"missing datasets in my profile in datahub","conversationType":"problem","conversationSubject":"The Data Hub"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade48d"},"input":"cannot approve dataset in datahub","conversationType":"problem","conversationSubject":"The Data Hub"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade48e"},"input":"datahub email not working","conversationType":"problem","conversationSubject":"The Data Hub"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade48f"},"input":"only data steward can see data","conversationType":"problem","conversationSubject":"The Data Hub"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade490"},"input":"missing data on datahub","conversationType":"problem","conversationSubject":"The Data Hub"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade491"},"input":"datahub training","conversationType":"training","conversationSubject":"The Data Hub"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade492"},"input":"data hub training tutorial and documentaions","conversationType":"training","conversationSubject":"The Data Hub"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade493"},"input":"change the datahub color scheme","conversationType":"request","conversationSubject":"The Data Hub"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade494"},"input":"add department to datahub form dropdown","conversationType":"request","conversationSubject":"The Data Hub"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade495"},"input":"show fields in datahub","conversationType":"request","conversationSubject":"The Data Hub"}
+{"_id":{"$oid":"5c0913e6f27d9a6070ade496"},"input":"change datahub URL","conversationType":"request","conversationSubject":"The Data Hub"}
